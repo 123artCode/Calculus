@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anton/Desktop/Code/calculus/cmake_install.cmake",
+		"/Users/anton/Desktop/Code/calculus/pybind11/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
